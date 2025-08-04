@@ -1,0 +1,61 @@
+{
+  "personal_info": {
+    "full_name": "Ahmed Fawzy",
+    "title": "Backend Developer",
+    "email": "01ahmedfawzy23@gmail.com",
+    "phone": "+20 127 410 6118",
+    "address": "Quweisna, Monufia, Egypt",
+    "summary": "Experienced Backend developer with expertise in PHP, Laravel and RESTful APIs. Passionate about building scalable web applications and improving code quality."
+  },
+  "experience": [
+    {
+      "company": "Route Tech",
+      "position": "PHP mentor",
+      "start_date": "2023-02",
+      "end_date": "present",
+      "description": "Helping trainees at Route Academy develop their backend skills through follow-ups, explanations, and workshops."
+    },
+    {
+      "company": "Elevate Tech",
+      "position": "Backend Developer",
+      "start_date": "2025-01",
+      "end_date": "present",
+      "description": "Working on freelance projects, developing and maintaining scalable backend solutions, and collaborating with clients to deliver customized software services"
+    }
+  ],
+  "education": [
+    {
+      "school": "Benha University",
+      "degree": "BSc in Computer Science",
+      "start_date": "2019",
+      "end_date": "2023"
+    }
+  ],
+  "skills": ["Laravel", "PHP", "MySQL", "REST API", "Git", "WordPress"],
+  "languages": [
+    {
+      "language": "Arabic",
+      "level": "Native"
+    },
+    {
+      "language": "English",
+      "level": "Intermediate"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Early Detection of Pulmonary Diseases Through Respiratory Sound Analysis using AI Techniques",
+      "link": "https://github.com/ahmedfawzy23/graduation-project",
+      "description": "Native PHP app for reciving sounds from the patients and analyzing them using AI techniques to detect diseases."
+    },
+    {
+      "name": "E-Training",
+      "link": "https://github.com/ahmedfawzy23/e-train",
+      "description": "Laravel project for online courses."
+    }
+  ],
+  "social_links": {
+    "linkedin": "https://www.linkedin.com/in/ahmedfawzy23",
+    "github": "https://github.com/ahmedfawzy23"
+  }
+}
